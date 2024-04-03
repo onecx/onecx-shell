@@ -1,0 +1,12 @@
+deployment:
+  bff: true
+  ui: true
+
+product:
+  info:
+    data:
+      description: "OneCX Shell"
+      imageUrl: ""
+      iconName: "palette"
+      displayName: "OneCX Shell"
+      basePath: "/newShell"  
