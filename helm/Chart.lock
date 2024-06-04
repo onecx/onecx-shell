@@ -1,12 +1,12 @@
 dependencies:
 - name: helm-product
   repository: oci://ghcr.io/onecx/charts
-  version: 0.1.0
+  version: 0.2.0
 - name: onecx-shell-bff
   repository: oci://ghcr.io/onecx/charts
   version: 0.0.0-rc.28
 - name: onecx-shell-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 0.0.0-rc.47
-digest: sha256:c3034250bcbafa71f9baef73d7167f69b4289d352db1eb05f5e0c4e5299f21ac
-generated: "2024-06-03T13:08:34.683641462Z"
+  version: 0.0.0-rc.48
+digest: sha256:9f663daa1494b2e48a1b1921c4619d921a24158922b895aa3925f02ef336c4da
+generated: "2024-06-04T11:11:42.564294949Z"
