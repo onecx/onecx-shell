@@ -1,2 +1,2 @@
 # onecx-shell
-OneCx shell
+OneCX Shell
