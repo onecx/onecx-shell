@@ -5,8 +5,10 @@ deployment:
 product:
   info:
     data:
-      description: "OneCX Shell"
+      description: "The base for the cooperation of OneCX products"
       imageUrl: ""
-      iconName: "palette"
+      iconName: home
       displayName: "OneCX Shell"
-      basePath: "/newShell"  
+      basePath: /newShell
+      provider: "OneCX Team"
+      classifications: [ "Administration" ]
