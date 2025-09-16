@@ -7,6 +7,6 @@ dependencies:
   version: 1.9.0
 - name: onecx-shell-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 2.4.0-rc.1
-digest: sha256:e2abae8fce1561f7e8be572218f3d1eb82527ffa2a31b89e77a796024d6d1226
-generated: "2025-09-15T09:54:46.163559563Z"
+  version: 2.4.0-rc.2
+digest: sha256:6b16214ffa59ba7fa5d265ce01f8fb1d9ae7db6e60a66306c0d523ad52323d14
+generated: "2025-09-16T08:55:10.934425606Z"
