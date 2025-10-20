@@ -1,3 +1,4 @@
+# Deployment config
 deployment:
   bff: true
   ui: true
