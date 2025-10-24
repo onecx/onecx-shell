@@ -4,9 +4,9 @@ dependencies:
   version: 0.3.0
 - name: onecx-shell-bff
   repository: oci://ghcr.io/onecx/charts
-  version: 1.10.0-rc.8
+  version: 1.10.0-rc.9
 - name: onecx-shell-ui
   repository: oci://ghcr.io/onecx/charts
   version: 3.0.0-rc.23
-digest: sha256:a9051e3c884c26f4935bff9dc5908458de3c0c7cca69764ac0eab6e2a5dbc3db
-generated: "2025-10-24T12:53:59.952952216Z"
+digest: sha256:1514e69b617f2ab1d7c5e756955537c19b48af23dd7a6b60f664665c0386d8d6
+generated: "2025-10-24T14:50:09.6500069Z"
