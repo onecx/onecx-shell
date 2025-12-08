@@ -1,2 +1,0 @@
-* xref:general:index.adoc[General]
-* xref:general:parameter-concept.adoc[Parameter Concept]
