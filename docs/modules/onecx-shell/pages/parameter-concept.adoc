@@ -1,6 +1,4 @@
-= OneCX Parameter Management
-
-==  Concept for Microfrontends
+=  Concept for Microfrontend Parameter
 
 1. The Shell requests the parameters from the ShellBFF by product names and application ids of all applications which are part of the current workspace configuration.
 2. The ShellBFF retrieves the parameters from the ParameterSVC for all applications which are part of the current workspace.
