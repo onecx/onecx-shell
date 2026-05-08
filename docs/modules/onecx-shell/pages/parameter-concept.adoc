@@ -11,7 +11,7 @@ Since the ShellBFF is always returning status code 200 when requested for parame
 If the response object matches the request object (i.e., all products and applications are included in the response), then the fetch was successful. If there is an issue with the ParameterSVC, the response object will be empty and will not contain any products or applications.
 
 
-[mermaid]
+[source,mermaid]
 ....
  sequenceDiagram
      Shell->>+ShellBFF: getParameters (body: GetParameterRequest)
