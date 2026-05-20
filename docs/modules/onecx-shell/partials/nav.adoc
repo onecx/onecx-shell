@@ -4,4 +4,12 @@ include::documentation:onecx-shell-ui:partial$nav.adoc[]
 +
 include::documentation:onecx-shell-bff:partial$nav.adoc[]
 +
+** V3
++
+*** xref:documentation:onecx-shell:v3/v3-release.adoc[V3 Release Notes]
++
+*** xref:documentation:onecx-shell:v3/v3-shell-layout.adoc[V3 Shell Layout]
++
 ** xref:documentation:onecx-shell:parameter-concept.adoc[Parameter Concept]
++
+** xref:documentation:onecx-shell:enable-shell-source-maps.adoc[Enable Shell Source Maps]
