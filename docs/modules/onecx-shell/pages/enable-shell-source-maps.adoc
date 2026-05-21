@@ -29,7 +29,7 @@ By default, the `SOURCE_MAPS_ACCESS_RULE` is set to `deny all;`, which means tha
 
 [CAUTION]
 ====
-Do not enable public source map delivery in production unless the security and operational implications have been thoroughly reviewed.
+Do not enable public source map access in production unless the security and operational implications have been thoroughly reviewed.
 ====
  
 Recommended practice:
