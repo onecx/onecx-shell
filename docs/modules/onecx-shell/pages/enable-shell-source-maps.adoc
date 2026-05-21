@@ -36,4 +36,4 @@ Recommended practice:
 
 * enable source maps in development
 * allow source maps only in trusted lower environments if needed
-* keep production delivery disabled by default
+* keep production access disabled by default
