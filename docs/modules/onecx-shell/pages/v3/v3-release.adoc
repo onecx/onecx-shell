@@ -32,7 +32,7 @@ Consumers should validate shell integration, configuration, and deployment behav
 
 * Introduces a new Angular 21 integration path while maintaining compatibility for previously supported applications
 * Enhances shell layout and extensibility with viewport restructuring and slot-group based layout conventions
-* Improves startup and runtime efficiency, including reducing message exchange between microfrontends
+* Improves startup and runtime efficiency, including reduced message exchange between microfrontends
 * Adds new shell capabilities including an About page and source maps support
 
 [#release-notes]
