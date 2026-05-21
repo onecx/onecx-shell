@@ -22,7 +22,7 @@ To enable source maps for the shell, set the `SOURCE_MAPS_ACCESS_RULE` environme
 [#default-behavior]
 == Default behavior
 * default: `deny all;`
-By default, the `SOURCE_MAPS_ACCESS_RULE` is set to `deny all;`, which means that source maps are generated but not accessible for delivery.
+By default, the `SOURCE_MAPS_ACCESS_RULE` is set to `deny all;`, which means that source maps are generated but not accessible.
 
 [#recommendation]
 == Recommendation
